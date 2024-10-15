@@ -1,0 +1,1 @@
+{"name":"Local: Number of Subsequences","url":"d:\\Visual studio code\\Codeforces\\practice\\Number of Subsequences.cpp","tests":[{"id":1652692506395,"input":"6\nac?b?c","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\practice\\Number of Subsequences.cpp","group":"local","local":true}

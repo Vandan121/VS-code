@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "D:\\Visual studio code\\Codeforces\\practice\\HackerRank - DAIICT Summer Long 2022\\Trip with Maximum student safety\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Trip with Maximum student safety",
+      "group": "HackerRank - DAIICT Summer Long 2022",
+      "url": "https://www.hackerrank.com/contests/daiict-summer-long-2022/challenges/trip-with-maximum-student-safety",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

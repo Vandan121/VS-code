@@ -1,0 +1,1 @@
+{"name":"Local: Repetitions","url":"d:\\Visual studio code\\cses\\Repetitions.cpp","tests":[{"id":1646666706911,"input":"ATTCGGGA","output":"3"},{"id":1646666749831,"input":"ACCGGGTTTT","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\cses\\Repetitions.cpp","group":"local","local":true}

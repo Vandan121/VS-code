@@ -1,0 +1,1 @@
+{"name":"Local: doubt","url":"d:\\Visual studio code\\doubt.cpp","tests":[{"id":1637819874902,"input":"1 7 2\n3 8 5 4 1 4 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\doubt.cpp","group":"local","local":true}

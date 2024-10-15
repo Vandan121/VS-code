@@ -1,0 +1,1 @@
+{"name":"Local: Top k numbers in a stream","url":"d:\\Visual studio code\\GeeksforGeeks\\Top k numbers in a stream.cpp","tests":[{"id":1658647414181,"input":"1\n5 4\n5 2 1 3 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Top k numbers in a stream.cpp","group":"local","local":true}

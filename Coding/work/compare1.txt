@@ -1,0 +1,3000 @@
+Alice: 11224
+Bob: 12928
+Bob
+Alice: 13090
+Bob: 15103
+Bob
+Alice: 3260
+Bob: 3754
+Bob
+Alice: 18984
+Bob: 21894
+Bob
+Alice: 2722
+Bob: 3107
+Bob
+Alice: 5880
+Bob: 6790
+Bob
+Alice: 14478
+Bob: 16707
+Bob
+Alice: 11230
+Bob: 12954
+Bob
+Alice: 15660
+Bob: 18072
+Bob
+Alice: 18962
+Bob: 21845
+Bob
+Alice: 8686
+Bob: 10031
+Bob
+Alice: 7524
+Bob: 8671
+Bob
+Alice: 3122
+Bob: 3604
+Bob
+Alice: 8636
+Bob: 9964
+Bob
+Alice: 13216
+Bob: 15218
+Bob
+Alice: 11018
+Bob: 12726
+Bob
+Alice: 9954
+Bob: 11477
+Bob
+Alice: 9884
+Bob: 11397
+Bob
+Alice: 14214
+Bob: 16387
+Bob
+Alice: 16672
+Bob: 19237
+Bob
+Alice: 11628
+Bob: 13408
+Bob
+Alice: 12682
+Bob: 14627
+Bob
+Alice: 14810
+Bob: 17074
+Bob
+Alice: 17712
+Bob: 20408
+Bob
+Alice: 13066
+Bob: 15092
+Bob
+Alice: 19480
+Bob: 22481
+Bob
+Alice: 16142
+Bob: 18614
+Bob
+Alice: 14714
+Bob: 16965
+Bob
+Alice: 11318
+Bob: 13049
+Bob
+Alice: 5956
+Bob: 6855
+Bob
+Alice: 1114
+Bob: 1255
+Bob
+Alice: 7412
+Bob: 8555
+Bob
+Alice: 118
+Bob: 146
+Bob
+Alice: 3056
+Bob: 3504
+Bob
+Alice: 19522
+Bob: 22525
+Bob
+Alice: 8640
+Bob: 9942
+Bob
+Alice: 16922
+Bob: 19521
+Bob
+Alice: 3338
+Bob: 3860
+Bob
+Alice: 18320
+Bob: 21135
+Bob
+Alice: 1292
+Bob: 1488
+Bob
+Alice: 13716
+Bob: 15803
+Bob
+Alice: 8464
+Bob: 9753
+Bob
+Alice: 10874
+Bob: 12547
+Bob
+Alice: 16928
+Bob: 19517
+Bob
+Alice: 7922
+Bob: 9133
+Bob
+Alice: 19520
+Bob: 22502
+Bob
+Alice: 11200
+Bob: 12926
+Bob
+Alice: 18310
+Bob: 21119
+Bob
+Alice: 17818
+Bob: 20571
+Bob
+Alice: 10284
+Bob: 11871
+Bob
+Alice: 10180
+Bob: 11734
+Bob
+Alice: 2708
+Bob: 3130
+Bob
+Alice: 352
+Bob: 404
+Bob
+Alice: 1932
+Bob: 2231
+Bob
+Alice: 13696
+Bob: 15772
+Bob
+Alice: 8444
+Bob: 9735
+Bob
+Alice: 9368
+Bob: 10798
+Bob
+Alice: 1400
+Bob: 1622
+Bob
+Alice: 3998
+Bob: 4619
+Bob
+Alice: 4994
+Bob: 5785
+Bob
+Alice: 19594
+Bob: 22598
+Bob
+Alice: 1858
+Bob: 2154
+Bob
+Alice: 2746
+Bob: 3178
+Bob
+Alice: 3754
+Bob: 4327
+Bob
+Alice: 10620
+Bob: 12226
+Bob
+Alice: 5366
+Bob: 6184
+Bob
+Alice: 17374
+Bob: 20044
+Bob
+Alice: 12384
+Bob: 14297
+Bob
+Alice: 13650
+Bob: 15736
+Bob
+Alice: 8358
+Bob: 9641
+Bob
+Alice: 9946
+Bob: 11494
+Bob
+Alice: 11880
+Bob: 13712
+Bob
+Alice: 2406
+Bob: 2764
+Bob
+Alice: 9550
+Bob: 10993
+Bob
+Alice: 7242
+Bob: 8332
+Bob
+Alice: 15026
+Bob: 17336
+Bob
+Alice: 4240
+Bob: 4899
+Bob
+Alice: 288
+Bob: 334
+Bob
+Alice: 14852
+Bob: 17141
+Bob
+Alice: 8632
+Bob: 9950
+Bob
+Alice: 15790
+Bob: 18213
+Bob
+Alice: 17118
+Bob: 19756
+Bob
+Alice: 13520
+Bob: 15592
+Bob
+Alice: 17056
+Bob: 19676
+Bob
+Alice: 172
+Bob: 183
+Bob
+Alice: 18170
+Bob: 20993
+Bob
+Alice: 16856
+Bob: 19451
+Bob
+Alice: 9744
+Bob: 11250
+Bob
+Alice: 5686
+Bob: 6561
+Bob
+Alice: 94
+Bob: 108
+Bob
+Alice: 13052
+Bob: 15087
+Bob
+Alice: 9358
+Bob: 10771
+Bob
+Alice: 9592
+Bob: 11057
+Bob
+Alice: 18106
+Bob: 20876
+Bob
+Alice: 7990
+Bob: 9212
+Bob
+Alice: 4128
+Bob: 4755
+Bob
+Alice: 1992
+Bob: 2273
+Bob
+Alice: 10652
+Bob: 12278
+Bob
+Alice: 11236
+Bob: 12972
+Bob
+Alice: 1676
+Bob: 1935
+Bob
+Alice: 12882
+Bob: 14854
+Bob
+Alice: 2846
+Bob: 3292
+Bob
+Alice: 5068
+Bob: 5848
+Bob
+Alice: 5758
+Bob: 6610
+Bob
+Alice: 2994
+Bob: 3457
+Bob
+Alice: 15256
+Bob: 17591
+Bob
+Alice: 14664
+Bob: 16915
+Bob
+Alice: 15342
+Bob: 17702
+Bob
+Alice: 14608
+Bob: 16817
+Bob
+Alice: 14638
+Bob: 16891
+Bob
+Alice: 2684
+Bob: 3089
+Bob
+Alice: 6636
+Bob: 7659
+Bob
+Alice: 7746
+Bob: 8929
+Bob
+Alice: 6116
+Bob: 7059
+Bob
+Alice: 4006
+Bob: 4603
+Bob
+Alice: 16256
+Bob: 18732
+Bob
+Alice: 16212
+Bob: 18694
+Bob
+Alice: 8690
+Bob: 10034
+Bob
+Alice: 5332
+Bob: 6166
+Bob
+Alice: 9148
+Bob: 10514
+Bob
+Alice: 8424
+Bob: 9741
+Bob
+Alice: 13588
+Bob: 15662
+Bob
+Alice: 5796
+Bob: 6629
+Bob
+Alice: 6546
+Bob: 7545
+Bob
+Alice: 8754
+Bob: 10079
+Bob
+Alice: 4384
+Bob: 5043
+Bob
+Alice: 268
+Bob: 320
+Bob
+Alice: 18324
+Bob: 21137
+Bob
+Alice: 2918
+Bob: 3369
+Bob
+Alice: 19400
+Bob: 22372
+Bob
+Alice: 5664
+Bob: 6519
+Bob
+Alice: 17246
+Bob: 19883
+Bob
+Alice: 4908
+Bob: 5665
+Bob
+Alice: 18290
+Bob: 21101
+Bob
+Alice: 9420
+Bob: 10864
+Bob
+Alice: 14938
+Bob: 17234
+Bob
+Alice: 7024
+Bob: 8096
+Bob
+Alice: 8780
+Bob: 10108
+Bob
+Alice: 548
+Bob: 642
+Bob
+Alice: 1656
+Bob: 1909
+Bob
+Alice: 11898
+Bob: 13717
+Bob
+Alice: 17240
+Bob: 19895
+Bob
+Alice: 2728
+Bob: 3153
+Bob
+Alice: 7276
+Bob: 8387
+Bob
+Alice: 7518
+Bob: 8652
+Bob
+Alice: 2562
+Bob: 2931
+Bob
+Alice: 10900
+Bob: 12584
+Bob
+Alice: 6342
+Bob: 7330
+Bob
+Alice: 4088
+Bob: 4721
+Bob
+Alice: 9866
+Bob: 11392
+Bob
+Alice: 9654
+Bob: 11149
+Bob
+Alice: 3970
+Bob: 4581
+Bob
+Alice: 14098
+Bob: 16255
+Bob
+Alice: 10174
+Bob: 11722
+Bob
+Alice: 13838
+Bob: 15983
+Bob
+Alice: 5172
+Bob: 5944
+Bob
+Alice: 14770
+Bob: 17045
+Bob
+Alice: 19396
+Bob: 22392
+Bob
+Alice: 12632
+Bob: 14567
+Bob
+Alice: 6610
+Bob: 7610
+Bob
+Alice: 12388
+Bob: 14292
+Bob
+Alice: 2396
+Bob: 2755
+Bob
+Alice: 15038
+Bob: 17367
+Bob
+Alice: 10670
+Bob: 12287
+Bob
+Alice: 9736
+Bob: 11254
+Bob
+Alice: 16784
+Bob: 19366
+Bob
+Alice: 18870
+Bob: 21762
+Bob
+Alice: 2220
+Bob: 2551
+Bob
+Alice: 15898
+Bob: 18347
+Bob
+Alice: 2976
+Bob: 3430
+Bob
+Alice: 1630
+Bob: 1880
+Bob
+Alice: 7274
+Bob: 8408
+Bob
+Alice: 18660
+Bob: 21507
+Bob
+Alice: 12326
+Bob: 14204
+Bob
+Alice: 13356
+Bob: 15395
+Bob
+Alice: 15362
+Bob: 17728
+Bob
+Alice: 18986
+Bob: 21904
+Bob
+Alice: 1948
+Bob: 2264
+Bob
+Alice: 13996
+Bob: 16166
+Bob
+Alice: 3370
+Bob: 3872
+Bob
+Alice: 8596
+Bob: 9915
+Bob
+Alice: 8594
+Bob: 9921
+Bob
+Alice: 10808
+Bob: 12481
+Bob
+Alice: 1612
+Bob: 1846
+Bob
+Alice: 9224
+Bob: 10637
+Bob
+Alice: 7698
+Bob: 8870
+Bob
+Alice: 19580
+Bob: 22574
+Bob
+Alice: 3840
+Bob: 4427
+Bob
+Alice: 15496
+Bob: 17866
+Bob
+Alice: 12908
+Bob: 14902
+Bob
+Alice: 8714
+Bob: 10041
+Bob
+Alice: 18378
+Bob: 21206
+Bob
+Alice: 19420
+Bob: 22420
+Bob
+Alice: 19594
+Bob: 22584
+Bob
+Alice: 4322
+Bob: 4987
+Bob
+Alice: 2872
+Bob: 3311
+Bob
+Alice: 17666
+Bob: 20405
+Bob
+Alice: 9998
+Bob: 11515
+Bob
+Alice: 19360
+Bob: 22338
+Bob
+Alice: 19466
+Bob: 22454
+Bob
+Alice: 1352
+Bob: 1559
+Bob
+Alice: 856
+Bob: 978
+Bob
+Alice: 5082
+Bob: 5859
+Bob
+Alice: 16022
+Bob: 18471
+Bob
+Alice: 7806
+Bob: 8995
+Bob
+Alice: 13984
+Bob: 16136
+Bob
+Alice: 3154
+Bob: 3619
+Bob
+Alice: 6042
+Bob: 6956
+Bob
+Alice: 16358
+Bob: 18895
+Bob
+Alice: 9812
+Bob: 11315
+Bob
+Alice: 2972
+Bob: 3423
+Bob
+Alice: 13354
+Bob: 15401
+Bob
+Alice: 5138
+Bob: 5933
+Bob
+Alice: 1668
+Bob: 1914
+Bob
+Alice: 19514
+Bob: 22532
+Bob
+Alice: 19236
+Bob: 22209
+Bob
+Alice: 10122
+Bob: 11672
+Bob
+Alice: 14104
+Bob: 16253
+Bob
+Alice: 15070
+Bob: 17386
+Bob
+Alice: 11148
+Bob: 12838
+Bob
+Alice: 8606
+Bob: 9930
+Bob
+Alice: 3990
+Bob: 4592
+Bob
+Alice: 1702
+Bob: 1973
+Bob
+Alice: 13918
+Bob: 16053
+Bob
+Alice: 3180
+Bob: 3674
+Bob
+Alice: 2130
+Bob: 2437
+Bob
+Alice: 7728
+Bob: 8912
+Bob
+Alice: 4924
+Bob: 5658
+Bob
+Alice: 9090
+Bob: 10476
+Bob
+Alice: 19440
+Bob: 22442
+Bob
+Alice: 6778
+Bob: 7800
+Bob
+Alice: 9604
+Bob: 11080
+Bob
+Alice: 4442
+Bob: 5107
+Bob
+Alice: 15304
+Bob: 17622
+Bob
+Alice: 7994
+Bob: 9234
+Bob
+Alice: 1716
+Bob: 1989
+Bob
+Alice: 1822
+Bob: 2123
+Bob
+Alice: 6646
+Bob: 7683
+Bob
+Alice: 10088
+Bob: 11624
+Bob
+Alice: 3928
+Bob: 4534
+Bob
+Alice: 3572
+Bob: 4120
+Bob
+Alice: 1832
+Bob: 2117
+Bob
+Alice: 17002
+Bob: 19599
+Bob
+Alice: 12684
+Bob: 14617
+Bob
+Alice: 18694
+Bob: 21568
+Bob
+Alice: 15578
+Bob: 17966
+Bob
+Alice: 16786
+Bob: 19371
+Bob
+Alice: 4772
+Bob: 5495
+Bob
+Alice: 3368
+Bob: 3863
+Bob
+Alice: 7580
+Bob: 8746
+Bob
+Alice: 2392
+Bob: 2767
+Bob
+Alice: 5878
+Bob: 6778
+Bob
+Alice: 1760
+Bob: 2013
+Bob
+Alice: 1784
+Bob: 2059
+Bob
+Alice: 14750
+Bob: 16993
+Bob
+Alice: 3012
+Bob: 3450
+Bob
+Alice: 12144
+Bob: 14008
+Bob
+Alice: 9950
+Bob: 11477
+Bob
+Alice: 9960
+Bob: 11510
+Bob
+Alice: 17902
+Bob: 20646
+Bob
+Alice: 13870
+Bob: 16007
+Bob
+Alice: 17202
+Bob: 19829
+Bob
+Alice: 6670
+Bob: 7679
+Bob
+Alice: 4714
+Bob: 5444
+Bob
+Alice: 16660
+Bob: 19229
+Bob
+Alice: 9636
+Bob: 11096
+Bob
+Alice: 17390
+Bob: 20078
+Bob
+Alice: 7644
+Bob: 8807
+Bob
+Alice: 13336
+Bob: 15375
+Bob
+Alice: 4434
+Bob: 5142
+Bob
+Alice: 2772
+Bob: 3201
+Bob
+Alice: 3996
+Bob: 4589
+Bob
+Alice: 14222
+Bob: 16396
+Bob
+Alice: 3302
+Bob: 3813
+Bob
+Alice: 6114
+Bob: 7056
+Bob
+Alice: 7410
+Bob: 8544
+Bob
+Alice: 4868
+Bob: 5607
+Bob
+Alice: 7500
+Bob: 8639
+Bob
+Alice: 13312
+Bob: 15380
+Bob
+Alice: 15020
+Bob: 17322
+Bob
+Alice: 5236
+Bob: 6017
+Bob
+Alice: 15912
+Bob: 18342
+Bob
+Alice: 13308
+Bob: 15382
+Bob
+Alice: 16432
+Bob: 18958
+Bob
+Alice: 12448
+Bob: 14364
+Bob
+Alice: 5604
+Bob: 6428
+Bob
+Alice: 1548
+Bob: 1776
+Bob
+Alice: 5336
+Bob: 6137
+Bob
+Alice: 5634
+Bob: 6498
+Bob
+Alice: 13848
+Bob: 15985
+Bob
+Alice: 5680
+Bob: 6554
+Bob
+Alice: 13240
+Bob: 15263
+Bob
+Alice: 12440
+Bob: 14334
+Bob
+Alice: 4960
+Bob: 5719
+Bob
+Alice: 14918
+Bob: 17187
+Bob
+Alice: 7172
+Bob: 8262
+Bob
+Alice: 19672
+Bob: 22692
+Bob
+Alice: 16580
+Bob: 19117
+Bob
+Alice: 10548
+Bob: 12183
+Bob
+Alice: 7630
+Bob: 8811
+Bob
+Alice: 5332
+Bob: 6141
+Bob
+Alice: 11580
+Bob: 13375
+Bob
+Alice: 19202
+Bob: 22135
+Bob
+Alice: 11050
+Bob: 12719
+Bob
+Alice: 12588
+Bob: 14513
+Bob
+Alice: 9772
+Bob: 11270
+Bob
+Alice: 9554
+Bob: 11004
+Bob
+Alice: 13550
+Bob: 15603
+Bob
+Alice: 8428
+Bob: 9715
+Bob
+Alice: 3932
+Bob: 4526
+Bob
+Alice: 9938
+Bob: 11482
+Bob
+Alice: 17672
+Bob: 20403
+Bob
+Alice: 2280
+Bob: 2649
+Bob
+Alice: 17282
+Bob: 19920
+Bob
+Alice: 10276
+Bob: 11857
+Bob
+Alice: 1818
+Bob: 2099
+Bob
+Alice: 8698
+Bob: 10040
+Bob
+Alice: 4744
+Bob: 5454
+Bob
+Alice: 5050
+Bob: 5821
+Bob
+Alice: 10876
+Bob: 12545
+Bob
+Alice: 12348
+Bob: 14218
+Bob
+Alice: 14356
+Bob: 16529
+Bob
+Alice: 19198
+Bob: 22146
+Bob
+Alice: 11856
+Bob: 13672
+Bob
+Alice: 14862
+Bob: 17128
+Bob
+Alice: 14220
+Bob: 16390
+Bob
+Alice: 17440
+Bob: 20132
+Bob
+Alice: 9410
+Bob: 10838
+Bob
+Alice: 4960
+Bob: 5739
+Bob
+Alice: 19296
+Bob: 22264
+Bob
+Alice: 14302
+Bob: 16484
+Bob
+Alice: 5310
+Bob: 6137
+Bob
+Alice: 10226
+Bob: 11780
+Bob
+Alice: 2564
+Bob: 2965
+Bob
+Alice: 8128
+Bob: 9380
+Bob
+Alice: 198
+Bob: 218
+Bob
+Alice: 12484
+Bob: 14411
+Bob
+Alice: 6872
+Bob: 7928
+Bob
+Alice: 16960
+Bob: 19535
+Bob
+Alice: 17312
+Bob: 19972
+Bob
+Alice: 4796
+Bob: 5542
+Bob
+Alice: 1652
+Bob: 1925
+Bob
+Alice: 17384
+Bob: 20044
+Bob
+Alice: 10180
+Bob: 11725
+Bob
+Alice: 10878
+Bob: 12515
+Bob
+Alice: 19630
+Bob: 22629
+Bob
+Alice: 5216
+Bob: 6009
+Bob
+Alice: 10220
+Bob: 11788
+Bob
+Alice: 8036
+Bob: 9270
+Bob
+Alice: 18322
+Bob: 21129
+Bob
+Alice: 18628
+Bob: 21499
+Bob
+Alice: 19526
+Bob: 22533
+Bob
+Alice: 11376
+Bob: 13127
+Bob
+Alice: 2000
+Bob: 2293
+Bob
+Alice: 5514
+Bob: 6353
+Bob
+Alice: 4986
+Bob: 5729
+Bob
+Alice: 1520
+Bob: 1751
+Bob
+Alice: 7064
+Bob: 8145
+Bob
+Alice: 10158
+Bob: 11705
+Bob
+Alice: 13786
+Bob: 15897
+Bob
+Alice: 13640
+Bob: 15717
+Bob
+Alice: 10876
+Bob: 12535
+Bob
+Alice: 5888
+Bob: 6796
+Bob
+Alice: 14180
+Bob: 16372
+Bob
+Alice: 10862
+Bob: 12519
+Bob
+Alice: 1408
+Bob: 1645
+Bob
+Alice: 7556
+Bob: 8716
+Bob
+Alice: 15942
+Bob: 18372
+Bob
+Alice: 17854
+Bob: 20582
+Bob
+Alice: 9978
+Bob: 11507
+Bob
+Alice: 8078
+Bob: 9304
+Bob
+Alice: 14912
+Bob: 17206
+Bob
+Alice: 18952
+Bob: 21877
+Bob
+Alice: 7406
+Bob: 8535
+Bob
+Alice: 16598
+Bob: 19168
+Bob
+Alice: 19620
+Bob: 22612
+Bob
+Alice: 17472
+Bob: 20185
+Bob
+Alice: 1164
+Bob: 1333
+Bob
+Alice: 190
+Bob: 197
+Bob
+Alice: 646
+Bob: 745
+Bob
+Alice: 18076
+Bob: 20856
+Bob
+Alice: 15884
+Bob: 18312
+Bob
+Alice: 5976
+Bob: 6866
+Bob
+Alice: 1462
+Bob: 1671
+Bob
+Alice: 11632
+Bob: 13424
+Bob
+Alice: 16952
+Bob: 19560
+Bob
+Alice: 8774
+Bob: 10126
+Bob
+Alice: 13524
+Bob: 15611
+Bob
+Alice: 2352
+Bob: 2705
+Bob
+Alice: 14984
+Bob: 17270
+Bob
+Alice: 18588
+Bob: 21452
+Bob
+Alice: 12758
+Bob: 14731
+Bob
+Alice: 17350
+Bob: 20022
+Bob
+Alice: 14082
+Bob: 16245
+Bob
+Alice: 12164
+Bob: 14040
+Bob
+Alice: 18026
+Bob: 20807
+Bob
+Alice: 8
+Bob: 5
+Alice
+Alice: 2460
+Bob: 2833
+Bob
+Alice: 5898
+Bob: 6801
+Bob
+Alice: 13538
+Bob: 15632
+Bob
+Alice: 2828
+Bob: 3274
+Bob
+Alice: 4726
+Bob: 5445
+Bob
+Alice: 12212
+Bob: 14107
+Bob
+Alice: 12420
+Bob: 14319
+Bob
+Alice: 6510
+Bob: 7505
+Bob
+Alice: 17918
+Bob: 20683
+Bob
+Alice: 18376
+Bob: 21185
+Bob
+Alice: 3768
+Bob: 4354
+Bob
+Alice: 18678
+Bob: 21527
+Bob
+Alice: 9470
+Bob: 10896
+Bob
+Alice: 7140
+Bob: 8228
+Bob
+Alice: 1462
+Bob: 1700
+Bob
+Alice: 16748
+Bob: 19288
+Bob
+Alice: 16508
+Bob: 19017
+Bob
+Alice: 36
+Bob: 43
+Bob
+Alice: 15980
+Bob: 18422
+Bob
+Alice: 12068
+Bob: 13906
+Bob
+Alice: 10188
+Bob: 11752
+Bob
+Alice: 3816
+Bob: 4382
+Bob
+Alice: 8944
+Bob: 10283
+Bob
+Alice: 17530
+Bob: 20225
+Bob
+Alice: 58
+Bob: 71
+Bob
+Alice: 18812
+Bob: 21717
+Bob
+Alice: 8698
+Bob: 10057
+Bob
+Alice: 17596
+Bob: 20269
+Bob
+Alice: 2190
+Bob: 2533
+Bob
+Alice: 10416
+Bob: 12007
+Bob
+Alice: 10540
+Bob: 12165
+Bob
+Alice: 150
+Bob: 179
+Bob
+Alice: 9900
+Bob: 11416
+Bob
+Alice: 1484
+Bob: 1718
+Bob
+Alice: 17692
+Bob: 20413
+Bob
+Alice: 11000
+Bob: 12688
+Bob
+Alice: 6480
+Bob: 7469
+Bob
+Alice: 9168
+Bob: 10569
+Bob
+Alice: 5976
+Bob: 6903
+Bob
+Alice: 12234
+Bob: 14093
+Bob
+Alice: 310
+Bob: 343
+Bob
+Alice: 3642
+Bob: 4208
+Bob
+Alice: 9610
+Bob: 11089
+Bob
+Alice: 964
+Bob: 1099
+Bob
+Alice: 2890
+Bob: 3346
+Bob
+Alice: 8324
+Bob: 9596
+Bob
+Alice: 11334
+Bob: 13078
+Bob
+Alice: 11626
+Bob: 13387
+Bob
+Alice: 9508
+Bob: 10986
+Bob
+Alice: 4160
+Bob: 4794
+Bob
+Alice: 13448
+Bob: 15490
+Bob
+Alice: 1692
+Bob: 1956
+Bob
+Alice: 2012
+Bob: 2319
+Bob
+Alice: 14936
+Bob: 17230
+Bob
+Alice: 12092
+Bob: 13948
+Bob
+Alice: 17528
+Bob: 20241
+Bob
+Alice: 13606
+Bob: 15687
+Bob
+Alice: 16608
+Bob: 19146
+Bob
+Alice: 13902
+Bob: 16015
+Bob
+Alice: 5828
+Bob: 6717
+Bob
+Alice: 17832
+Bob: 20546
+Bob
+Alice: 7630
+Bob: 8787
+Bob
+Alice: 15144
+Bob: 17454
+Bob
+Alice: 4074
+Bob: 4680
+Bob
+Alice: 18058
+Bob: 20820
+Bob
+Alice: 2574
+Bob: 2969
+Bob
+Alice: 3478
+Bob: 4026
+Bob
+Alice: 16542
+Bob: 19052
+Bob
+Alice: 862
+Bob: 1023
+Bob
+Alice: 8376
+Bob: 9656
+Bob
+Alice: 1702
+Bob: 1947
+Bob
+Alice: 11536
+Bob: 13294
+Bob
+Alice: 10768
+Bob: 12414
+Bob
+Alice: 2984
+Bob: 3439
+Bob
+Alice: 14722
+Bob: 16974
+Bob
+Alice: 458
+Bob: 549
+Bob
+Alice: 9248
+Bob: 10659
+Bob
+Alice: 15690
+Bob: 18103
+Bob
+Alice: 18984
+Bob: 21896
+Bob
+Alice: 446
+Bob: 509
+Bob
+Alice: 14044
+Bob: 16191
+Bob
+Alice: 11714
+Bob: 13493
+Bob
+Alice: 13546
+Bob: 15611
+Bob
+Alice: 19128
+Bob: 22070
+Bob
+Alice: 2836
+Bob: 3270
+Bob
+Alice: 16984
+Bob: 19580
+Bob
+Alice: 14258
+Bob: 16432
+Bob
+Alice: 2584
+Bob: 2953
+Bob
+Alice: 17718
+Bob: 20417
+Bob
+Alice: 7786
+Bob: 8986
+Bob
+Alice: 10832
+Bob: 12511
+Bob
+Alice: 3340
+Bob: 3856
+Bob
+Alice: 14400
+Bob: 16596
+Bob
+Alice: 896
+Bob: 1036
+Bob
+Alice: 5682
+Bob: 6552
+Bob
+Alice: 14404
+Bob: 16612
+Bob
+Alice: 11326
+Bob: 13057
+Bob
+Alice: 7504
+Bob: 8635
+Bob
+Alice: 15390
+Bob: 17761
+Bob
+Alice: 3490
+Bob: 4044
+Bob
+Alice: 3296
+Bob: 3803
+Bob
+Alice: 9430
+Bob: 10866
+Bob
+Alice: 15540
+Bob: 17911
+Bob
+Alice: 9566
+Bob: 11045
+Bob
+Alice: 16378
+Bob: 18889
+Bob
+Alice: 17190
+Bob: 19828
+Bob
+Alice: 6596
+Bob: 7589
+Bob
+Alice: 3768
+Bob: 4366
+Bob
+Alice: 6684
+Bob: 7733
+Bob
+Alice: 11486
+Bob: 13250
+Bob
+Alice: 3232
+Bob: 3735
+Bob
+Alice: 10672
+Bob: 12299
+Bob
+Alice: 19400
+Bob: 22390
+Bob
+Alice: 6146
+Bob: 7087
+Bob
+Alice: 6252
+Bob: 7221
+Bob
+Alice: 13782
+Bob: 15897
+Bob
+Alice: 13162
+Bob: 15187
+Bob
+Alice: 14460
+Bob: 16670
+Bob
+Alice: 16512
+Bob: 19056
+Bob
+Alice: 2528
+Bob: 2921
+Bob
+Alice: 4222
+Bob: 4843
+Bob
+Alice: 17964
+Bob: 20732
+Bob
+Alice: 11832
+Bob: 13660
+Bob
+Alice: 1656
+Bob: 1907
+Bob
+Alice: 14722
+Bob: 16966
+Bob
+Alice: 17064
+Bob: 19680
+Bob
+Alice: 5596
+Bob: 6458
+Bob
+Alice: 4128
+Bob: 4746
+Bob
+Alice: 3838
+Bob: 4421
+Bob
+Alice: 4666
+Bob: 5383
+Bob
+Alice: 8710
+Bob: 10055
+Bob
+Alice: 5580
+Bob: 6410
+Bob
+Alice: 19192
+Bob: 22129
+Bob
+Alice: 1968
+Bob: 2293
+Bob
+Alice: 13932
+Bob: 16087
+Bob
+Alice: 1604
+Bob: 1834
+Bob
+Alice: 13934
+Bob: 16059
+Bob
+Alice: 17354
+Bob: 20021
+Bob
+Alice: 2448
+Bob: 2808
+Bob
+Alice: 7368
+Bob: 8488
+Bob
+Alice: 3192
+Bob: 3691
+Bob
+Alice: 7652
+Bob: 8842
+Bob
+Alice: 12290
+Bob: 14170
+Bob
+Alice: 366
+Bob: 413
+Bob
+Alice: 5076
+Bob: 5850
+Bob
+Alice: 692
+Bob: 782
+Bob
+Alice: 11294
+Bob: 13031
+Bob
+Alice: 4418
+Bob: 5096
+Bob
+Alice: 3782
+Bob: 4352
+Bob
+Alice: 1988
+Bob: 2292
+Bob
+Alice: 10120
+Bob: 11659
+Bob
+Alice: 17632
+Bob: 20326
+Bob
+Alice: 14472
+Bob: 16705
+Bob
+Alice: 3364
+Bob: 3890
+Bob
+Alice: 19232
+Bob: 22201
+Bob
+Alice: 2194
+Bob: 2529
+Bob
+Alice: 11852
+Bob: 13671
+Bob
+Alice: 13588
+Bob: 15656
+Bob
+Alice: 8576
+Bob: 9896
+Bob
+Alice: 15514
+Bob: 17899
+Bob
+Alice: 19634
+Bob: 22634
+Bob
+Alice: 12254
+Bob: 14132
+Bob
+Alice: 8096
+Bob: 9350
+Bob
+Alice: 6816
+Bob: 7846
+Bob
+Alice: 4460
+Bob: 5149
+Bob
+Alice: 5456
+Bob: 6266
+Bob
+Alice: 12912
+Bob: 14888
+Bob
+Alice: 12552
+Bob: 14491
+Bob
+Alice: 10112
+Bob: 11659
+Bob
+Alice: 4296
+Bob: 4950
+Bob
+Alice: 9602
+Bob: 11064
+Bob
+Alice: 17610
+Bob: 20300
+Bob
+Alice: 16570
+Bob: 19139
+Bob
+Alice: 6274
+Bob: 7228
+Bob
+Alice: 5134
+Bob: 5935
+Bob
+Alice: 16762
+Bob: 19378
+Bob
+Alice: 26
+Bob: 29
+Bob
+Alice: 18420
+Bob: 21252
+Bob
+Alice: 18632
+Bob: 21485
+Bob
+Alice: 19718
+Bob: 22749
+Bob
+Alice: 14808
+Bob: 17079
+Bob
+Alice: 3916
+Bob: 4529
+Bob
+Alice: 15976
+Bob: 18419
+Bob
+Alice: 18330
+Bob: 21121
+Bob
+Alice: 722
+Bob: 835
+Bob
+Alice: 9384
+Bob: 10832
+Bob
+Alice: 5708
+Bob: 6548
+Bob
+Alice: 16304
+Bob: 18800
+Bob
+Alice: 8788
+Bob: 10142
+Bob
+Alice: 17258
+Bob: 19921
+Bob
+Alice: 18204
+Bob: 21025
+Bob
+Alice: 1720
+Bob: 1988
+Bob
+Alice: 13386
+Bob: 15418
+Bob
+Alice: 18678
+Bob: 21542
+Bob
+Alice: 8486
+Bob: 9790
+Bob
+Alice: 1222
+Bob: 1419
+Bob
+Alice: 4222
+Bob: 4862
+Bob
+Alice: 9476
+Bob: 10908
+Bob
+Alice: 18516
+Bob: 21346
+Bob
+Alice: 17904
+Bob: 20627
+Bob
+Alice: 1730
+Bob: 1967
+Bob
+Alice: 8538
+Bob: 9852
+Bob
+Alice: 5654
+Bob: 6504
+Bob
+Alice: 11174
+Bob: 12868
+Bob
+Alice: 15166
+Bob: 17486
+Bob
+Alice: 19272
+Bob: 22224
+Bob
+Alice: 10184
+Bob: 11734
+Bob
+Alice: 18008
+Bob: 20808
+Bob
+Alice: 3522
+Bob: 4075
+Bob
+Alice: 13112
+Bob: 15127
+Bob
+Alice: 8312
+Bob: 9601
+Bob
+Alice: 19002
+Bob: 21932
+Bob
+Alice: 17024
+Bob: 19655
+Bob
+Alice: 14874
+Bob: 17169
+Bob
+Alice: 5484
+Bob: 6337
+Bob
+Alice: 4800
+Bob: 5536
+Bob
+Alice: 4318
+Bob: 4976
+Bob
+Alice: 12072
+Bob: 13918
+Bob
+Alice: 13170
+Bob: 15187
+Bob
+Alice: 5774
+Bob: 6656
+Bob
+Alice: 18410
+Bob: 21250
+Bob
+Alice: 5404
+Bob: 6242
+Bob
+Alice: 8408
+Bob: 9683
+Bob
+Alice: 5054
+Bob: 5812
+Bob
+Alice: 9114
+Bob: 10506
+Bob
+Alice: 2450
+Bob: 2836
+Bob
+Alice: 14698
+Bob: 16967
+Bob
+Alice: 12568
+Bob: 14476
+Bob
+Alice: 14004
+Bob: 16145
+Bob
+Alice: 13634
+Bob: 15711
+Bob
+Alice: 7102
+Bob: 8177
+Bob
+Alice: 2928
+Bob: 3354
+Bob
+Alice: 15260
+Bob: 17587
+Bob
+Alice: 11084
+Bob: 12801
+Bob
+Alice: 17704
+Bob: 20440
+Bob
+Alice: 14236
+Bob: 16434
+Bob
+Alice: 16766
+Bob: 19344
+Bob
+Alice: 9080
+Bob: 10470
+Bob
+Alice: 6212
+Bob: 7173
+Bob
+Alice: 11698
+Bob: 13515
+Bob
+Alice: 4952
+Bob: 5694
+Bob
+Alice: 7856
+Bob: 9070
+Bob
+Alice: 9984
+Bob: 11512
+Bob
+Alice: 11156
+Bob: 12858
+Bob
+Alice: 10976
+Bob: 12639
+Bob
+Alice: 19574
+Bob: 22576
+Bob
+Alice: 19420
+Bob: 22417
+Bob
+Alice: 6988
+Bob: 8070
+Bob
+Alice: 17088
+Bob: 19711
+Bob
+Alice: 17168
+Bob: 19815
+Bob
+Alice: 14320
+Bob: 16517
+Bob
+Alice: 1764
+Bob: 2039
+Bob
+Alice: 4084
+Bob: 4705
+Bob
+Alice: 4830
+Bob: 5570
+Bob
+Alice: 2524
+Bob: 2922
+Bob
+Alice: 18252
+Bob: 21033
+Bob
+Alice: 1152
+Bob: 1324
+Bob
+Alice: 11472
+Bob: 13230
+Bob
+Alice: 1880
+Bob: 2156
+Bob
+Alice: 14984
+Bob: 17265
+Bob
+Alice: 19446
+Bob: 22434
+Bob
+Alice: 7598
+Bob: 8753
+Bob
+Alice: 4564
+Bob: 5251
+Bob
+Alice: 2526
+Bob: 2885
+Bob
+Alice: 7872
+Bob: 9087
+Bob
+Alice: 2840
+Bob: 3302
+Bob
+Alice: 3588
+Bob: 4132
+Bob
+Alice: 3506
+Bob: 4050
+Bob
+Alice: 9512
+Bob: 10992
+Bob
+Alice: 7480
+Bob: 8618
+Bob
+Alice: 1822
+Bob: 2092
+Bob
+Alice: 15366
+Bob: 17723
+Bob
+Alice: 3524
+Bob: 4067
+Bob
+Alice: 15874
+Bob: 18294
+Bob
+Alice: 3676
+Bob: 4246
+Bob
+Alice: 14922
+Bob: 17197
+Bob
+Alice: 7010
+Bob: 8075
+Bob
+Alice: 12628
+Bob: 14549
+Bob
+Alice: 9376
+Bob: 10800
+Bob
+Alice: 5276
+Bob: 6084
+Bob
+Alice: 1142
+Bob: 1327
+Bob
+Alice: 744
+Bob: 869
+Bob
+Alice: 11510
+Bob: 13268
+Bob
+Alice: 5718
+Bob: 6594
+Bob
+Alice: 18288
+Bob: 21114
+Bob
+Alice: 12622
+Bob: 14561
+Bob
+Alice: 14120
+Bob: 16292
+Bob
+Alice: 4346
+Bob: 5017
+Bob
+Alice: 13518
+Bob: 15605
+Bob
+Alice: 4422
+Bob: 5100
+Bob
+Alice: 14478
+Bob: 16669
+Bob
+Alice: 12386
+Bob: 14290
+Bob
+Alice: 16110
+Bob: 18589
+Bob
+Alice: 10756
+Bob: 12405
+Bob
+Alice: 7072
+Bob: 8145
+Bob
+Alice: 1992
+Bob: 2315
+Bob
+Alice: 6102
+Bob: 7038
+Bob
+Alice: 4450
+Bob: 5147
+Bob
+Alice: 10204
+Bob: 11762
+Bob
+Alice: 5172
+Bob: 5950
+Bob
+Alice: 11282
+Bob: 12997
+Bob
+Alice: 16518
+Bob: 19037
+Bob
+Alice: 15434
+Bob: 17811
+Bob
+Alice: 16812
+Bob: 19372
+Bob
+Alice: 8456
+Bob: 9751
+Bob
+Alice: 774
+Bob: 899
+Bob
+Alice: 19032
+Bob: 21941
+Bob
+Alice: 19336
+Bob: 22318
+Bob
+Alice: 5664
+Bob: 6525
+Bob
+Alice: 18360
+Bob: 21180
+Bob
+Alice: 16060
+Bob: 18523
+Bob
+Alice: 9752
+Bob: 11239
+Bob
+Alice: 7794
+Bob: 8969
+Bob
+Alice: 8208
+Bob: 9450
+Bob
+Alice: 16982
+Bob: 19607
+Bob
+Alice: 9156
+Bob: 10546
+Bob
+Alice: 4610
+Bob: 5309
+Bob
+Alice: 15990
+Bob: 18426
+Bob
+Alice: 7152
+Bob: 8233
+Bob
+Alice: 15586
+Bob: 17975
+Bob
+Alice: 908
+Bob: 1059
+Bob
+Alice: 9370
+Bob: 10808
+Bob
+Alice: 7766
+Bob: 8950
+Bob
+Alice: 18624
+Bob: 21476
+Bob
+Alice: 9462
+Bob: 10900
+Bob
+Alice: 12774
+Bob: 14744
+Bob
+Alice: 888
+Bob: 1010
+Bob
+Alice: 16446
+Bob: 18982
+Bob
+Alice: 6714
+Bob: 7746
+Bob
+Alice: 6802
+Bob: 7851
+Bob
+Alice: 15134
+Bob: 17484
+Bob
+Alice: 15688
+Bob: 18084
+Bob
+Alice: 10130
+Bob: 11683
+Bob
+Alice: 8516
+Bob: 9806
+Bob
+Alice: 16010
+Bob: 18456
+Bob
+Alice: 13724
+Bob: 15842
+Bob
+Alice: 18984
+Bob: 21914
+Bob
+Alice: 15442
+Bob: 17803
+Bob
+Alice: 16252
+Bob: 18767
+Bob
+Alice: 3580
+Bob: 4134
+Bob
+Alice: 17346
+Bob: 20001
+Bob
+Alice: 11608
+Bob: 13388
+Bob
+Alice: 10908
+Bob: 12572
+Bob
+Alice: 780
+Bob: 904
+Bob
+Alice: 18920
+Bob: 21810
+Bob
+Alice: 15566
+Bob: 17938
+Bob
+Alice: 13342
+Bob: 15365
+Bob
+Alice: 13486
+Bob: 15558
+Bob
+Alice: 15532
+Bob: 17896
+Bob
+Alice: 12000
+Bob: 13833
+Bob
+Alice: 14916
+Bob: 17200
+Bob
+Alice: 14978
+Bob: 17282
+Bob
+Alice: 7168
+Bob: 8275
+Bob
+Alice: 4840
+Bob: 5574
+Bob
+Alice: 6430
+Bob: 7422
+Bob
+Alice: 17762
+Bob: 20487
+Bob
+Alice: 14836
+Bob: 17108
+Bob
+Alice: 13248
+Bob: 15270
+Bob
+Alice: 1984
+Bob: 2291
+Bob
+Alice: 11370
+Bob: 13120
+Bob
+Alice: 16410
+Bob: 18932
+Bob
+Alice: 10718
+Bob: 12347
+Bob
+Alice: 5932
+Bob: 6848
+Bob
+Alice: 1814
+Bob: 2095
+Bob
+Alice: 4122
+Bob: 4753
+Bob
+Alice: 5342
+Bob: 6152
+Bob
+Alice: 2158
+Bob: 2483
+Bob
+Alice: 13788
+Bob: 15899
+Bob
+Alice: 4696
+Bob: 5394
+Bob
+Alice: 3678
+Bob: 4241
+Bob
+Alice: 5206
+Bob: 5983
+Bob
+Alice: 16140
+Bob: 18594
+Bob
+Alice: 2930
+Bob: 3362
+Bob
+Alice: 16708
+Bob: 19260
+Bob
+Alice: 14848
+Bob: 17107
+Bob
+Alice: 8324
+Bob: 9569
+Bob
+Alice: 6572
+Bob: 7553
+Bob
+Alice: 8774
+Bob: 10124
+Bob
+Alice: 12778
+Bob: 14738
+Bob
+Alice: 10250
+Bob: 11842
+Bob
+Alice: 14392
+Bob: 16599
+Bob
+Alice: 7674
+Bob: 8853
+Bob
+Alice: 1394
+Bob: 1618
+Bob
+Alice: 15132
+Bob: 17435
+Bob
+Alice: 6794
+Bob: 7827
+Bob
+Alice: 18880
+Bob: 21773
+Bob
+Alice: 5402
+Bob: 6237
+Bob
+Alice: 3812
+Bob: 4395
+Bob
+Alice: 17890
+Bob: 20641
+Bob
+Alice: 1810
+Bob: 2079
+Bob
+Alice: 16468
+Bob: 18983
+Bob
+Alice: 1836
+Bob: 2089
+Bob
+Alice: 12168
+Bob: 14027
+Bob
+Alice: 7082
+Bob: 8154
+Bob
+Alice: 19592
+Bob: 22604
+Bob
+Alice: 19498
+Bob: 22489
+Bob
+Alice: 1198
+Bob: 1358
+Bob
+Alice: 18968
+Bob: 21863
+Bob
+Alice: 2268
+Bob: 2609
+Bob
+Alice: 14688
+Bob: 16923
+Bob
+Alice: 4414
+Bob: 5098
+Bob
+Alice: 18342
+Bob: 21143
+Bob
+Alice: 5506
+Bob: 6358
+Bob
+Alice: 16308
+Bob: 18789
+Bob
+Alice: 12450
+Bob: 14344
+Bob
+Alice: 8444
+Bob: 9741
+Bob
+Alice: 19058
+Bob: 22011
+Bob
+Alice: 12676
+Bob: 14640
+Bob
+Alice: 12080
+Bob: 13947
+Bob
+Alice: 3530
+Bob: 4078
+Bob
+Alice: 17718
+Bob: 20415
+Bob
+Alice: 898
+Bob: 1044
+Bob
+Alice: 14098
+Bob: 16275
+Bob
+Alice: 120
+Bob: 134
+Bob
+Alice: 19750
+Bob: 22778
+Bob
+Alice: 18684
+Bob: 21531
+Bob
+Alice: 3984
+Bob: 4594
+Bob
+Alice: 10202
+Bob: 11761
+Bob
+Alice: 9522
+Bob: 10974
+Bob
+Alice: 498
+Bob: 572
+Bob
+Alice: 14178
+Bob: 16360
+Bob
+Alice: 17694
+Bob: 20384
+Bob
+Alice: 846
+Bob: 959
+Bob
+Alice: 12756
+Bob: 14714
+Bob
+Alice: 666
+Bob: 765
+Bob
+Alice: 16540
+Bob: 19060
+Bob
+Alice: 3998
+Bob: 4605
+Bob
+Alice: 15654
+Bob: 18065
+Bob
+Alice: 19166
+Bob: 22096
+Bob
+Alice: 11782
+Bob: 13603
+Bob
+Alice: 14980
+Bob: 17275
+Bob
+Alice: 4198
+Bob: 4869
+Bob
+Alice: 7558
+Bob: 8718
+Bob
+Alice: 3232
+Bob: 3746
+Bob
+Alice: 7200
+Bob: 8292
+Bob
+Alice: 12956
+Bob: 14938
+Bob
+Alice: 6770
+Bob: 7810
+Bob
+Alice: 11186
+Bob: 12900
+Bob
+Alice: 4934
+Bob: 5675
+Bob
+Alice: 4228
+Bob: 4858
+Bob
+Alice: 7532
+Bob: 8678
+Bob
+Alice: 5600
+Bob: 6452
+Bob
+Alice: 738
+Bob: 860
+Bob
+Alice: 16580
+Bob: 19106
+Bob
+Alice: 17650
+Bob: 20351
+Bob
+Alice: 16140
+Bob: 18626
+Bob
+Alice: 14098
+Bob: 16270
+Bob
+Alice: 18382
+Bob: 21228
+Bob
+Alice: 12872
+Bob: 14868
+Bob
+Alice: 6860
+Bob: 7912
+Bob
+Alice: 13692
+Bob: 15799
+Bob
+Alice: 1808
+Bob: 2103
+Bob
+Alice: 9178
+Bob: 10552
+Bob
+Alice: 10912
+Bob: 12557
+Bob
+Alice: 832
+Bob: 948
+Bob
+Alice: 19594
+Bob: 22622
+Bob
+Alice: 18334
+Bob: 21154
+Bob
+Alice: 10168
+Bob: 11719
+Bob
+Alice: 15990
+Bob: 18444
+Bob
+Alice: 6594
+Bob: 7612
+Bob
+Alice: 6524
+Bob: 7537
+Bob
+Alice: 15616
+Bob: 18000
+Bob
+Alice: 9212
+Bob: 10629
+Bob
+Alice: 19756
+Bob: 22778
+Bob
+Alice: 13368
+Bob: 15417
+Bob
+Alice: 11234
+Bob: 12968
+Bob
+Alice: 10132
+Bob: 11671
+Bob
+Alice: 5072
+Bob: 5819
+Bob
+Alice: 16148
+Bob: 18615
+Bob
+Alice: 19540
+Bob: 22540
+Bob
+Alice: 3234
+Bob: 3727
+Bob
+Alice: 2902
+Bob: 3349
+Bob
+Alice: 14412
+Bob: 16651
+Bob
+Alice: 10818
+Bob: 12484
+Bob
+Alice: 3890
+Bob: 4488
+Bob
+Alice: 19042
+Bob: 21989
+Bob
+Alice: 18086
+Bob: 20855
+Bob
+Alice: 13206
+Bob: 15258
+Bob
+Alice: 17800
+Bob: 20517
+Bob
+Alice: 16952
+Bob: 19579
+Bob
+Alice: 17882
+Bob: 20645
+Bob
+Alice: 7194
+Bob: 8302
+Bob
+Alice: 2954
+Bob: 3421
+Bob
+Alice: 11692
+Bob: 13477
+Bob
+Alice: 18180
+Bob: 20980
+Bob
+Alice: 840
+Bob: 973
+Bob
+Alice: 12592
+Bob: 14530
+Bob
+Alice: 7710
+Bob: 8877
+Bob
+Alice: 12430
+Bob: 14333
+Bob
+Alice: 8608
+Bob: 9922
+Bob
+Alice: 3452
+Bob: 3973
+Bob
+Alice: 18524
+Bob: 21353
+Bob
+Alice: 964
+Bob: 1104
+Bob
+Alice: 12648
+Bob: 14587
+Bob
+Alice: 3436
+Bob: 3963
+Bob
+Alice: 9458
+Bob: 10904
+Bob
+Alice: 11210
+Bob: 12913
+Bob
+Alice: 5980
+Bob: 6896
+Bob
+Alice: 4282
+Bob: 4930
+Bob
+Alice: 1458
+Bob: 1687
+Bob
+Alice: 1416
+Bob: 1639
+Bob
+Alice: 18234
+Bob: 21016
+Bob
+Alice: 15124
+Bob: 17440
+Bob
+Alice: 18848
+Bob: 21742
+Bob
+Alice: 4808
+Bob: 5551
+Bob
+Alice: 5164
+Bob: 5949
+Bob
+Alice: 19604
+Bob: 22603
+Bob
+Alice: 19710
+Bob: 22731
+Bob
+Alice: 18410
+Bob: 21210
+Bob
+Alice: 18176
+Bob: 20952
+Bob
+Alice: 14594
+Bob: 16834
+Bob
+Alice: 7158
+Bob: 8235
+Bob
+Alice: 13324
+Bob: 15362
+Bob
+Alice: 19458
+Bob: 22438
+Bob
+Alice: 11874
+Bob: 13711
+Bob
+Alice: 4288
+Bob: 4938
+Bob
+Alice: 7084
+Bob: 8180
+Bob
+Alice: 16836
+Bob: 19401
+Bob
+Alice: 2590
+Bob: 2986
+Bob
+Alice: 11906
+Bob: 13742
+Bob
+Alice: 19352
+Bob: 22328
+Bob
+Alice: 2764
+Bob: 3178
+Bob
+Alice: 3408
+Bob: 3926
+Bob
+Alice: 8248
+Bob: 9529
+Bob
+Alice: 10384
+Bob: 11969
+Bob
+Alice: 14874
+Bob: 17144
+Bob
+Alice: 6194
+Bob: 7150
+Bob
+Alice: 10690
+Bob: 12316
+Bob
+Alice: 328
+Bob: 366
+Bob
+Alice: 656
+Bob: 761
+Bob
+Alice: 9350
+Bob: 10794
+Bob
+Alice: 1122
+Bob: 1311
+Bob
+Alice: 12634
+Bob: 14605
+Bob
+Alice: 1850
+Bob: 2142
+Bob
+Alice: 11996
+Bob: 13823
+Bob
+Alice: 12594
+Bob: 14557
+Bob
+Alice: 234
+Bob: 267
+Bob
+Alice: 4294
+Bob: 4941
+Bob
+Alice: 10602
+Bob: 12212
+Bob
+Alice: 126
+Bob: 161
+Bob
+Alice: 11666
+Bob: 13440
+Bob
+Alice: 8256
+Bob: 9536
+Bob
+Alice: 18018
+Bob: 20789
+Bob
+Alice: 11422
+Bob: 13168
+Bob
+Alice: 3374
+Bob: 3908
+Bob
+Alice: 2348
+Bob: 2684
+Bob
+Alice: 5650
+Bob: 6533
+Bob
+Alice: 3334
+Bob: 3847
+Bob
+Alice: 11066
+Bob: 12742
+Bob
+Alice: 18790
+Bob: 21657
+Bob
+Alice: 6606
+Bob: 7624
+Bob
+Alice: 17564
+Bob: 20270
+Bob
+Alice: 6186
+Bob: 7131
+Bob
+Alice: 13248
+Bob: 15291
+Bob
+Alice: 3364
+Bob: 3881
+Bob
+Alice: 2024
+Bob: 2336
+Bob
+Alice: 13006
+Bob: 14990
+Bob
+Alice: 4508
+Bob: 5187
+Bob
+Alice: 16170
+Bob: 18609
+Bob
+Alice: 11240
+Bob: 12959
+Bob
+Alice: 9724
+Bob: 11213
+Bob
+Alice: 18390
+Bob: 21207
+Bob
+Alice: 15346
+Bob: 17682
+Bob
+Alice: 12924
+Bob: 14916
+Bob
+Alice: 10716
+Bob: 12351
+Bob
+Alice: 14582
+Bob: 16843
+Bob
+Alice: 14782
+Bob: 17033
+Bob
+Alice: 14118
+Bob: 16278
+Bob
+Alice: 12354
+Bob: 14233
+Bob
+Alice: 13984
+Bob: 16107
+Bob
+Alice: 8950
+Bob: 10338
+Bob
+Alice: 11318
+Bob: 13053
+Bob
+Alice: 846
+Bob: 976
+Bob
+Alice: 10338
+Bob: 11919
+Bob
+Alice: 11854
+Bob: 13674
+Bob
+Alice: 2738
+Bob: 3145
+Bob
+Alice: 2212
+Bob: 2552
+Bob
+Alice: 3708
+Bob: 4284
+Bob
+Alice: 18848
+Bob: 21756
+Bob
+Alice: 2858
+Bob: 3272
+Bob
+Alice: 15706
+Bob: 18131
+Bob
+Alice: 16186
+Bob: 18677
+Bob
+Alice: 10902
+Bob: 12595
+Bob
+Alice: 102
+Bob: 113
+Bob
+Alice: 9328
+Bob: 10768
+Bob
+Alice: 11180
+Bob: 12895
+Bob
+Alice: 716
+Bob: 849
+Bob
+Alice: 16104
+Bob: 18593
+Bob
+Alice: 16764
+Bob: 19319
+Bob
+Alice: 13334
+Bob: 15369
+Bob
+Alice: 2200
+Bob: 2529
+Bob
+Alice: 8842
+Bob: 10191
+Bob
+Alice: 18848
+Bob: 21744
+Bob
+Alice: 12906
+Bob: 14893
+Bob
+Alice: 2286
+Bob: 2627
+Bob
+Alice: 15986
+Bob: 18445
+Bob
+Alice: 5998
+Bob: 6925
+Bob
+Alice: 11434
+Bob: 13187
+Bob
+Alice: 14668
+Bob: 16949
+Bob
+Alice: 3756
+Bob: 4288
+Bob
+Alice: 3246
+Bob: 3753
+Bob
+Alice: 10256
+Bob: 11820
+Bob
+Alice: 17068
+Bob: 19675
+Bob

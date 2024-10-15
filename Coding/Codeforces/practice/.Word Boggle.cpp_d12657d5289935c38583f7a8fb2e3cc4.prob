@@ -1,0 +1,1 @@
+{"name":"Local: Word Boggle","url":"d:\\Visual studio code\\GeeksforGeeks\\Word Boggle.cpp","tests":[{"id":1654540205377,"input":"1\n4\nec efe b dff\n2 5\nf d b c e\nf d c c f","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Word Boggle.cpp","group":"local","local":true}

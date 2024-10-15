@@ -1,0 +1,1 @@
+{"name":"Local: Broken blocks","url":"d:\\Visual studio code\\GeeksforGeeks\\Broken blocks.cpp","tests":[{"id":1652505993087,"input":"1\n3 3\n2 5 6\n-1 3 2\n4 -1 5","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Broken blocks.cpp","group":"local","local":true}

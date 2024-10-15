@@ -1,0 +1,1 @@
+{"name":"Local: Sum Tree","url":"d:\\Visual studio code\\GeeksforGeeks\\Sum Tree.cpp","tests":[{"id":1656157476589,"input":"1\n62 16 15 N 8 4 7 N 8 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Sum Tree.cpp","group":"local","local":true}

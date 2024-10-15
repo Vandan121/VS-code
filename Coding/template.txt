@@ -1,0 +1,218 @@
+#include <bits/stdc++.h>
+using namespace std;
+#pragma GCC optimize("Ofast,unroll-loops")
+#pragma GCC target("avx2,tune=native")
+#define ios ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+#define FOR(i, a, b) for(int i = (a); i <= (b); ++i)
+#define ROF(i, a, b) for(int i = (a); i >= (b); --i)
+#define mod 1000000007
+#define INF 1000000000
+#define MAX 100010
+#define mp(a, b) make_pair(a, b)
+#define emplace(a) emplace_back(a)
+#define ll long long
+#define ulli unsigned long long int
+#define all(v) v.begin(), v.end()
+ 
+/*       Additional
+ulli factorial(ulli x){
+    ulli ans = 1;
+    FOR(i, 2, x){
+        ans *= i;
+    }
+    return ans;
+}
+ulli binocoeff(ulli n, ulli x){
+    ulli ans = 1;
+    for(int i = n - x + 1; i <= n; i++){
+        ans *= i;
+    }
+    ans /= factorial(x);
+    return ans;
+}
+ 
+long binpow(long a, long b, long m){
+    if(b == 0) return 1;
+    if(b % 2 == 1) return a * binpow(a, b - 1, m) % m;
+    else return binpow(a * a % m, b / 2, m);
+}
+ 
+void primeSieve(long n){
+    bool prime[1000001];//<-
+    //initalize in global
+    prime[1] = false;
+    prime[2] = true;
+    for(long i = 3; i <= n; i += 2){
+        prime[i] = true;
+    }
+    for(long i = 2; i * i <= n; i++){
+        if(prime[i]){
+            for(long j = i * i; j <= n; j += 2 * i){
+                prime[j] = false;
+            }
+        }
+    }
+}
+ 
+long gcd(long a, long b){
+   return b == 0 ? a : gcd(b, a % b);
+}
+ 
+long lcm(long a, long b){
+    return ((a * b) / gcd(a, b));
+}
+ 
+void lcs(ll n, ll m, ll x){
+    ll A[101], B[101], C[101];//in global
+    ll dp[n + 1][m + 1][x + 1];
+    FOR(i, 1, n + 1){
+        FOR(j, 1, m + 1){
+            FOR(k, 1, x + 1){
+                if(i == 0 || j == 0 || k == 0) dp[i][j][k] = 0;
+                else if(A[i - 1] == B[j - 1]) dp[i][j][k] = dp[i - 1][j - 1][k - 1] + 1;
+                else dp[i][j][k] = max(dp[i - 1][j][k], max(dp[i][j - 1][k], dp[i][j][k - 1]));
+            }
+        }
+    }
+    cout << dp[n][m][x] << "\n";
+}
+ 
+void LIS(){
+    int n;
+    cin >> n;
+    vector<int> a(n), lis(n, 1), l;
+    for(int i = 0; i < n; ++i){
+        cin >> a[i];
+    }
+    int res = 1;
+    l.emplace(a[0]);
+    for(int i = 1; i < n; ++i){
+        int pos = lower_bound(all(l), a[i]) - l.begin();
+        if(pos == (int)l.size()){
+            l.emplace(a[i]);
+        }else{
+            l[pos] = a[i];
+        }
+        lis[i] = pos + 1;
+        res = max(res, lis[i]);
+    }
+    cout << n - res;
+}
+ 
+void bfs(int node){
+    q.push(node);
+    visited[node] = 1;
+    while(!q.empty()){
+        curr = q.front();
+        q.pop();
+        for(auto i : arr[curr]){
+            if(!visited[i]){
+                q.push(i);
+                visited[i] = 1;
+                ancs[i] = curr;
+            }
+        }
+ 
+    }
+}
+ 
+void printPath(int v){
+    if(v == 0){
+        cout << cnt - 1 << "\n";
+        return;
+    }
+    cnt++;
+    printPath(ancs[v]);
+    cout << v << " ";
+}
+void dfs(int node){
+    visited[node] = 1;
+    for(auto i : v[node]){
+        if(!visited[i]){
+            dfs(i);
+        }
+    }
+}
+ 
+*/
+ 
+/*      SEGMENT TREE
+ 
+ 
+int arr[MAX + 1], t[4 * MAX];
+long gcd(long a, long b){
+   return b == 0 ? a : gcd(b, a % b);
+}
+ 
+void build(int v, int l, int r){
+    if(l == r) t[v] = arr[l];
+    else{
+        long m = (l + r) / 2;
+        build(2 * v, l, m);
+        build(2 * v + 1, m + 1, r);
+        t[v] = (t[2 * v] * t[2 * v + 1]);
+    }
+}
+int find_max(int v, int l, int r, int left, int right){
+    if(left > right) return INT_MIN;
+    if(l == left && r == right) return t[v];
+    int m = (l + r) / 2;
+    int max1 = find_max(2 * v, l, m, left, min(right, m));
+    int max2 = find_max(2 * v + 1, m + 1, r, max(left, m + 1), right);
+    return (max(max1, max2));
+}
+int find_gcd(int v, int l, int r, int left, int right){
+    if(left > right) return INT_MIN;
+    if(l == left && r == right) return t[v];
+    int m = (l + r) / 2;
+    int gcd1 = find_gcd(2 * v, l, m, left, min(right, m));
+    int gcd2 = find_gcd(2 * v + 1, m + 1, r, max(left, m + 1), right);
+    return gcd(gcd1, gcd2);
+}
+int find_product(int v, int l, int r, int left, int right){
+    if(left > right) return 1;
+    if(l == left && r == right) return t[v];
+    int m = (l + r) / 2;
+    int prd1 = find_product(2 * v, l, m, left, min(right, m));
+    int prd2 = find_product(2 * v + 1, m + 1, r, max(left, m + 1), right);
+    return (prd1 * prd2);
+}
+void update(int v, int l, int r, int idx, int val){
+    if(l == r) t[v] = val;
+    else{
+        int m = (l + r) / 2;
+        if(idx <= m) update(2 * v, l, m, idx, val);
+        else update(2 * v + 1, m + 1, r, idx, val);
+        t[v] = (t[v * 2] * t[v * 2 + 1]);
+    }
+} */
+ 
+/*      INT128 FUNCS
+__int128 read() {
+    __int128 x = 0, f = 1;
+    char ch = getchar();
+    while (ch < '0' || ch > '9') {
+        if (ch == '-') f = -1;
+        ch = getchar();
+    }
+    while (ch >= '0' && ch <= '9') {
+        x = x * 10 + ch - '0';
+        ch = getchar();
+    }
+    return x * f;
+}
+void print(__int128 shit){
+    if (shit < 0) {
+        putchar('-');
+        shit = -shit;
+    }
+    if (shit > 9) print(shit / 10);
+    putchar(shit % 10 + '0');
+}
+ 
+__int128 binpow(__int128 a, __int128 b, __int128 m){
+    if(b == 0) return 1;
+    if(b % 2 == 1) return a * binpow(a, b - 1, m) % m;
+    else return binpow(a * a % m, b / 2, m);
+}
+*/

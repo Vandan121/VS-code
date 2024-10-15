@@ -1,0 +1,1 @@
+{"name":"Local: Removing Digits","url":"d:\\Visual studio code\\Coding\\cses\\Removing Digits.cpp","tests":[{"id":1686689319612,"input":"27","output":"5"},{"id":1686689977606,"input":"4434","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Coding\\cses\\Removing Digits.cpp","group":"local","local":true}

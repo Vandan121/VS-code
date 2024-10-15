@@ -1,0 +1,1 @@
+{"name":"Local: Number of Alternating Subarrays","url":"d:\\Visual studio code\\hackerrank\\ipc-2\\Number of Alternating Subarrays.cpp","tests":[{"id":1637488626657,"input":"8\n100111110","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\hackerrank\\ipc-2\\Number of Alternating Subarrays.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: SUM","url":"d:\\Visual studio code\\Codeforces\\Coding_Arena\\Battle_2\\SUM.cpp","tests":[{"id":1641528895296,"input":"6\n1 2 3 3 2 3\n2\n1 4\n4 6","output":"9\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\Coding_Arena\\Battle_2\\SUM.cpp","group":"local","local":true}

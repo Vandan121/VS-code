@@ -1,0 +1,1 @@
+{"name":"Local: Beautiful Number","url":"d:\\Visual studio code\\hackerrank\\ipc-3\\Beautiful Number.cpp","tests":[{"id":1638545922315,"input":"3\n7 7\n4 9\n4 1000","output":"2\n3\n499"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\hackerrank\\ipc-3\\Beautiful Number.cpp","group":"local","local":true}

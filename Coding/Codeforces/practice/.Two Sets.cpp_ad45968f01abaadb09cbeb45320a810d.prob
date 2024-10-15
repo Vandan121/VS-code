@@ -1,0 +1,1 @@
+{"name":"Local: Two Sets","url":"d:\\Visual studio code\\cses\\Two Sets.cpp","tests":[{"id":1667230290440,"input":"7","output":"YES\n3\n1 6 7 \n4\n2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\cses\\Two Sets.cpp","group":"local","local":true}

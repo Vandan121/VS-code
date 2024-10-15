@@ -1,0 +1,1 @@
+{"name":"Local: gfg","url":"d:\\Visual studio code\\gfg.cpp","tests":[{"id":1656343871487,"input":"5\n50 100 20 32 98\n","output":""},{"id":1656353885361,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\gfg.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: microsoft","url":"d:\\Visual studio code\\microsoft.cpp","tests":[{"id":1657518227432,"input":"6\ncycle\nabba\nabacdec\ndddd\nabcde\nworld","output":"2\n2\n3\n4\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\microsoft.cpp","group":"local","local":true}
