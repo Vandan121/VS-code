@@ -1,0 +1,1 @@
+{"name":"Local: Common Divisors","url":"d:\\Visual studio code\\Coding\\cses\\Common Divisors.cpp","tests":[{"id":1713270720876,"input":"5\n3 14 15 7 9","output":"7"},{"id":1713271798509,"input":"7 14 15 30","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Coding\\cses\\Common Divisors.cpp","group":"local","local":true}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "D:\\Visual studio code\\Codeforces\\practice\\AtCoder - AtCoder Beginner Contest 183\\D - Water Heater\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Water Heater",
+      "group": "AtCoder - AtCoder Beginner Contest 183",
+      "url": "https://atcoder.jp/contests/abc183/tasks/abc183_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

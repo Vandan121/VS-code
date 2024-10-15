@@ -1,0 +1,1 @@
+{"name":"Local: Find All Four Sum Numbers","url":"d:\\Visual studio code\\GeeksforGeeks\\Find All Four Sum Numbers.cpp","tests":[{"id":1654891875676,"input":"1\n5 3\n0 0 2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Find All Four Sum Numbers.cpp","group":"local","local":true}

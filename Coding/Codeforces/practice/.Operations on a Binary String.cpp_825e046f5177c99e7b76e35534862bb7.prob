@@ -1,0 +1,1 @@
+{"name":"Local: Operations on a Binary String","url":"d:\\Visual studio code\\ICPC\\Operations on a Binary String.cpp","tests":[{"id":1662302709386,"input":"2\n5 3\n11011\n4 4\n0011","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\ICPC\\Operations on a Binary String.cpp","group":"local","local":true}

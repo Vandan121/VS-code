@@ -1,0 +1,1 @@
+{"name":"Local: Transfiguration","url":"d:\\Visual studio code\\GeeksforGekks\\Transfiguration.cpp","tests":[{"id":1644083179092,"input":"2\nGEEKSFORGEEKS\nFORGEEKSGEEKS\nkavSE akSvE","output":"3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGekks\\Transfiguration.cpp","group":"local","local":true}

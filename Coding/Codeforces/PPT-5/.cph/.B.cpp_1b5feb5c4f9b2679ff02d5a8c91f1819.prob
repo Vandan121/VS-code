@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\Visual studio code\\Coding\\Codeforces\\PPT-5\\B.cpp","tests":[{"id":1684943303933,"input":"1\n5\n5 4 3 2 1\n1 2 3 4 5\n","output":"14\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Coding\\Codeforces\\PPT-5\\B.cpp","group":"local","local":true}

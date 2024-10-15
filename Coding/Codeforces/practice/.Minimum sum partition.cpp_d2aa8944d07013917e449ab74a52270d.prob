@@ -1,0 +1,1 @@
+{"name":"Local: Minimum sum partition","url":"d:\\Visual studio code\\GeeksforGeeks\\Minimum sum partition.cpp","tests":[{"id":1652904557254,"input":"1\n4\n1 6 11 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Minimum sum partition.cpp","group":"local","local":true}

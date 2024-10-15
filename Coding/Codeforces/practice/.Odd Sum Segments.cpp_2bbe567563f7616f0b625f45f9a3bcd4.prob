@@ -1,0 +1,1 @@
+{"name":"Local: Odd Sum Segments","url":"d:\\Visual studio code\\Codeforces\\practice\\Odd Sum Segments.cpp","tests":[{"id":1645274445410,"input":"3\n5 3\n7 18 3 14 1\n5 4\n1 2 3 4 5\n6 2\n1 2 8 4 10 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\practice\\Odd Sum Segments.cpp","group":"local","local":true}

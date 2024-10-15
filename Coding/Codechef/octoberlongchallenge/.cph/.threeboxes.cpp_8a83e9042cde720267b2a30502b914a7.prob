@@ -1,0 +1,1 @@
+{"name":"Local: threeboxes","url":"d:\\Visual studio code\\Codechef\\octoberlongchallenge\\threeboxes.cpp","tests":[{"id":1633148023598,"input":"3\n2 3 5 10\n1 2 3 5\n3 3 4 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codechef\\octoberlongchallenge\\threeboxes.cpp","group":"local","local":true}

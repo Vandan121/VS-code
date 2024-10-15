@@ -1,0 +1,1 @@
+{"name":"Local: Number of Coins","url":"d:\\Visual studio code\\GeeksforGeeks\\Number of Coins.cpp","tests":[{"id":1652959985742,"input":"1\n49 3\n3 7 4","output":"30 3\n25 10 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGeeks\\Number of Coins.cpp","group":"local","local":true}

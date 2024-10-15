@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Visual studio code\\Codeforces\\practice\\A. Cowardly Rooks.cpp","tests":[{"id":1666675952715,"input":"2\n2 2\n1 2\n2 1\n3 1\n2 2","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\practice\\A. Cowardly Rooks.cpp","group":"local","local":true}

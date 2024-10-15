@@ -1,0 +1,1 @@
+{"name":"Local: Z mod X = C","url":"d:\\Visual studio code\\Codeforces\\Codeforces Round #792\\Z mod X = C.cpp","tests":[{"id":1652971974773,"input":"4\n1 3 4\n127 234 421\n2 7 8\n59 94 388","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\Codeforces Round #792\\Z mod X = C.cpp","group":"local","local":true}

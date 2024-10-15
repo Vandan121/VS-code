@@ -1,0 +1,1 @@
+{"name":"Local: Gray Code","url":"d:\\Visual studio code\\cses\\Gray Code.cpp","tests":[{"id":1667884710592,"input":"2","output":"00\n01\n11\n10"},{"id":1667885514033,"input":"3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\cses\\Gray Code.cpp","group":"local","local":true}

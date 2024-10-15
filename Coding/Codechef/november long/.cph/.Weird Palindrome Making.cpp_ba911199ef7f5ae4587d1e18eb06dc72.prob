@@ -1,0 +1,1 @@
+{"name":"Local: Weird Palindrome Making","url":"d:\\Visual studio code\\Codechef\\november long\\Weird Palindrome Making.cpp","tests":[{"id":1636612581551,"input":"2\n1\n4\n4\n4 3 1\n","output":"0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codechef\\november long\\Weird Palindrome Making.cpp","group":"local","local":true}

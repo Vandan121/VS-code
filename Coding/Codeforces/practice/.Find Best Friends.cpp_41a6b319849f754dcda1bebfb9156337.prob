@@ -1,0 +1,1 @@
+{"name":"Local: Find Best Friends","url":"d:\\Visual studio code\\hackerrank\\DAIICT Summer Long 2022\\Find Best Friends.cpp","tests":[{"id":1649150046613,"input":"5 31\n1 5 6 3 30","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\hackerrank\\DAIICT Summer Long 2022\\Find Best Friends.cpp","group":"local","local":true}

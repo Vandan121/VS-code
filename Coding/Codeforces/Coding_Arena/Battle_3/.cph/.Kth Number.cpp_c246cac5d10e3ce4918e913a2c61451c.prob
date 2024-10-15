@@ -1,0 +1,1 @@
+{"name":"Local: Kth Number","url":"d:\\Visual studio code\\Codeforces\\Coding_Arena\\Battle_3\\Kth Number.cpp","tests":[{"id":1642508168613,"input":"3\n2\n4\n10000000","output":"9\n55\n900955005509505"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\Coding_Arena\\Battle_3\\Kth Number.cpp","group":"local","local":true}

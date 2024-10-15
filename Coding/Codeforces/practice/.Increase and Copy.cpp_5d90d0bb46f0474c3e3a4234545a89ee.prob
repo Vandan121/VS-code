@@ -1,0 +1,1 @@
+{"name":"Local: Increase and Copy","url":"d:\\Visual studio code\\Codeforces\\practice\\Increase and Copy.cpp","tests":[{"id":1652683029479,"input":"5\n1\n5\n42\n1337\n1000000000","output":"0\n3\n11\n72\n63244"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\practice\\Increase and Copy.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Party","url":"d:\\Visual studio code\\Codeforces\\practice\\Party.cpp","tests":[{"id":1643257001732,"input":"5\n2\n3\n4\n5\n-1","output":"5"},{"id":1643258538616,"input":"3\n3\n-1\n2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Codeforces\\practice\\Party.cpp","group":"local","local":true}

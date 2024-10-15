@@ -1,0 +1,1 @@
+{"name":"Local: Distinct Subsequences","url":"d:\\Visual studio code\\Interviewbit\\Distinct Subsequences.cpp","tests":[{"id":1657002908303,"input":"1\naaaababbababbaabbaaababaaabbbaaabbb\nbbababa","output":"22113"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Interviewbit\\Distinct Subsequences.cpp","group":"local","local":true}

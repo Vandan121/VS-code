@@ -1,0 +1,1 @@
+{"name":"Local: Distance Sequence","url":"d:\\Visual studio code\\Atcoder\\Distance Sequence.cpp","tests":[{"id":1653765116047,"input":"100 1000 500\n\n","output":"657064711"},{"id":1653765717965,"input":"3 3 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\Atcoder\\Distance Sequence.cpp","group":"local","local":true}

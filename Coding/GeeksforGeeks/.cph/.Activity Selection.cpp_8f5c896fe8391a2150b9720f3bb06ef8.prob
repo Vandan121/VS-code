@@ -1,0 +1,1 @@
+{"name":"Local: Activity Selection","url":"d:\\Visual studio code\\GeeksforGekks\\Activity Selection.cpp","tests":[{"id":1637245825017,"input":"5\n2 4 4 8 7\n10 7 8 8 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\GeeksforGekks\\Activity Selection.cpp","group":"local","local":true}

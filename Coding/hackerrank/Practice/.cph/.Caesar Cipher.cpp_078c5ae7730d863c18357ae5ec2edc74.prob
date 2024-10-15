@@ -1,0 +1,1 @@
+{"name":"Local: Caesar Cipher","url":"d:\\Visual studio code\\hackerrank\\Practice\\Caesar Cipher.cpp","tests":[{"id":1641755116796,"input":"10\nwww.abc.xy\n87","output":"fff.jkl.gh"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual studio code\\hackerrank\\Practice\\Caesar Cipher.cpp","group":"local","local":true}
